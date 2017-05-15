@@ -1,6 +1,6 @@
 {
   "name": "i18",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "i18n tools",
   "main": "index.js",
   "bin": {
